@@ -1,6 +1,6 @@
 # independent projects
 
-A personal collection of data analysis and visualization projects built outside of coursework. This repo is a living portfolio — updated as new projects are completed.
+A personal collection of data analysis and visualization projects built outside of coursework. This repo is a living portfolio, updated as new projects are completed.
 
 ---
 
