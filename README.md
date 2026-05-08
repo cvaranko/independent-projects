@@ -1,6 +1,6 @@
 # independent projects
  
-A personal collection of data analysis and visualization projects built outside of coursework, organized by scope and complexity. This repo is a living portfolio — updated as new projects are completed.
+A personal collection of data analysis and visualization projects built outside of coursework, organized by scope and complexity. This repo is a living portfolio, updated as new projects are completed.
  
 ---
  
@@ -9,7 +9,10 @@ A personal collection of data analysis and visualization projects built outside 
  
 | project | dataset | tool focus | status |
 |--------|---------|------------|--------|
-| Pokémon Dataset Analysis | Kaggle · Pokémon dataset | Tableau | 🔜 coming soon |
+| Learning Project #1 | Kaggle · Pokémon Complete Pokédex Dataset | Python | 🔜 coming soon |
+| Learning Project #2 | Kaggle · Pokémon Complete Pokédex Dataset | SQL | 🔜 coming soon |
+| Learning Project #3 | Kaggle · Pokémon Complete Pokédex Dataset | Tableau | 🔜 coming soon |
+| Learning Project #4 | Kaggle · Pokémon Complete Pokédex Dataset | Power BI | 🔜 coming soon |
  
 ---
  
@@ -25,7 +28,7 @@ A personal collection of data analysis and visualization projects built outside 
 ## on the radar
 > Ideas and datasets I'm planning to explore
  
-- [ ] TBD
+- [ ] Pokémon Kaggle Dataset
 - [ ] TBD
 - [ ] TBD
 ---
