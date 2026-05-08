@@ -29,8 +29,8 @@ A personal collection of data analysis and visualization projects built outside 
 > Ideas and datasets I'm planning to explore
  
 - [ ] Pokémon Kaggle Dataset
-- [ ] TBD
-- [ ] TBD
+- [ ] Snowflake
+- [ ] Databricks
 ---
  
 *This portfolio grows over time. Check back for updates.*
