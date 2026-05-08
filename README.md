@@ -5,19 +5,19 @@ A personal collection of data analysis and visualization projects built outside 
 ---
  
 ## 🌱 learning projects
-> Kaggle & clean datasets · single tool focus · low-pressure exploration
+> Kaggle & clean datasets · single tool focus
  
 | project | dataset | tool focus | status |
 |--------|---------|------------|--------|
-| Learning Project #1 | Kaggle · Pokémon Complete Pokédex Dataset | Python | 🔜 coming soon |
-| Learning Project #2 | Kaggle · Pokémon Complete Pokédex Dataset | SQL | 🔜 coming soon |
-| Learning Project #3 | Kaggle · Pokémon Complete Pokédex Dataset | Tableau | 🔜 coming soon |
-| Learning Project #4 | Kaggle · Pokémon Complete Pokédex Dataset | Power BI | 🔜 coming soon |
+| The Anatomy of a Legendary | Kaggle · pokemon_complete.csv | Python · matplotlib | ⌛ in progress... |
+| Which Pokémon are objectively the best? | Kaggle · pokemon_complete.csv | SQL | 🔜 coming soon |
+| Learning Project #3 | Kaggle · pokemon_complete.csv | Tableau | ⌛ in progress... |
+| Pokémon by the Numbers | Kaggle · pokemon_complete.csv | Power BI | 🔜 coming soon |
  
 ---
  
 ## 🚀 showcase projects
-> Messy or real-world data · multi-tool · demonstrating mastery
+> Messy or real-world data · multi-tool 
  
 | project | dataset | tools | status |
 |--------|---------|-------|--------|
