@@ -16,7 +16,7 @@ A personal collection of data analysis and visualization projects built outside 
  
 ---
  
-## 🚀 showcase projects
+## 🌻 showcase projects
 > Messy or real-world data · multi-tool 
  
 | project | dataset | tools | status |
