@@ -10,9 +10,8 @@ A personal collection of data analysis and visualization projects built outside 
 | project | dataset | tool focus | status |
 |--------|---------|------------|--------|
 | The Anatomy of a Legendary Pokémon | Kaggle · pokemon_complete.csv | Python · matplotlib · pandas · seaborn | ⌛ in progress... |
-| Which Pokémon are objectively the best? | Kaggle · pokemon_complete.csv | SQL | 🔜 coming soon |
-| Learning Project #3 | Kaggle · pokemon_complete.csv | Tableau | ⌛ in progress... |
-| Pokémon by the Numbers | Kaggle · pokemon_complete.csv | Power BI | 🔜 coming soon |
+| Personal Wellness App | own data | TBD | 🔜 coming soon |
+| Independent Project #3 | Kaggle · pokemon_complete.csv | TBD | 🔜 coming soon |
  
 ---
  
