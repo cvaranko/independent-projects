@@ -26,6 +26,11 @@ A collection of data, tech, and maker projects built outside of coursework. Upda
 ## on the radar
 
 - [ ] Pokédex cyberdeck build
+- [ ] Smart mirror
+- [ ] Weather Station
+- [ ] Plant Monitor: monitors the moisture in a plant
+- [ ] Indoor Air Quality Monitor
+- [ ] Audio Visualizer
 
 ---
 
